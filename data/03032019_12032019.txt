@@ -1,0 +1,27 @@
+Time frame: 03/03/2019 - 12/03/2019
+
+Most active user: DrMurphy11
+
+User with most negative tweets: DrMurphy11
+
+User with most positive tweets: NSMyself
+
+Most negative tweet
+t_polarity_score                -1
+t_polarity                Negative
+u_screen_name       Meenakumari999
+Name: 67, dtype: object
+Tweet: @cpeedell @babylonhealth Awful 😡😱🇬🇧👌🏾❤️.
+
+Most positive tweet
+t_polarity_score                1
+t_polarity               Positive
+u_screen_name       vanessafrank3
+Name: 325, dtype: object
+Tweet: @apolyakova Best tweet ever @MattHancock #babylonhealth
+
+Percentages of tweets by polarity
+Negative    70.8
+Neutral     28.2
+Positive     1.0
+Name: t_polarity, dtype: float64
