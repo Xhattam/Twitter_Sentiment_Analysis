@@ -25,3 +25,7 @@ Negative    70.8
 Neutral     28.2
 Positive     1.0
 Name: t_polarity, dtype: float64
+Average negative polarity: -0.035082533619080224
+
+Average positive polarity: 0.9399999999999998
+
