@@ -9,6 +9,7 @@ import tweepy
 from tweepy import OAuthHandler
 import json
 import logging
+from utils import get_timestamp
 
 logging.basicConfig(level="WARN")
 
@@ -32,7 +33,7 @@ class TwitterClient(object):
         except Exception as e:
             print("Authentication failed: {}".format(e))
 
-    def get_raw_tweets(self, query, count, save):
+    def get_raw_tweets(self, query, count):
         """ Main function to fetch tweets and parse them.
         :param query: seach query
         :param count: number of tweets to fetch
@@ -49,13 +50,11 @@ class TwitterClient(object):
 
             for tweet in fetched_tweets:
                 tweets.append(tweet._json)
+
             self.logger.info("Fetched {}/{} tweets".format(len(fetched_tweets), count))
 
-            if save:
-                with open('../resouces/outputs/raw_tweets_full.json', 'w') as outfile:
-                    json.dump(tweets, outfile)
-            else:
-                return tweets
+            self.logger.info("Writing fetched tweet to json file...")
+            return tweets
 
         except tweepy.TweepError as e:
             self.logger.error("Error fetching tweets: " + str(e))

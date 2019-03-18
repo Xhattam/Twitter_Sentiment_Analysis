@@ -9,17 +9,17 @@ import json
 import pandas as pd
 from textblob import TextBlob
 import logging
+from utils import get_timestamp
 
 logging.basicConfig(level="WARN")
 
 
 class Processor:
 
-    def __init__(self, save):
+    def __init__(self):
         self.raw_tweets = json.load(open("../resources/outputs/raw_tweets_full.json", "r"))
         self.mapped_months = {'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04', 'May': '05','Jun': '06', 'Jul': '07',
                               'Aug': '08', 'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'}
-        self.save = save
         self.logger = logging.Logger(name="Processor")
 
     @staticmethod
@@ -80,8 +80,4 @@ class Processor:
                 tweet['entities']['user_mentions']))
 
         df = pd.DataFrame(all_extracted)
-        if self.save:
-            self.logger.info("Saving dataframe to csv file 'resources/outputs/dataframe_results.csv'")
-            df.to_csv("../resources/outputs/dataframe_results.csv")
-        else:
-            return pd.DataFrame(all_extracted)
+        return df

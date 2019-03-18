@@ -1,6 +1,14 @@
 from fetcher import TwitterClient
 from raw_tweets_processor import Processor
+from ugly_analyser import analyse
+from utils import get_timestamp
 import os
+import json
+import logging
+
+logging.basicConfig(level="WARN")
+
+LOGGER = logging.Logger("Main")
 
 
 def create_paths():
@@ -15,13 +23,25 @@ def do_magic(keywords, limit, save):
 
     # Querying Twitter, saving results to file
     tc = TwitterClient()
-    q = " OR ".join(keywords)
-    tc.get_raw_tweets("{} -filter:retweets -from:babylonhealth".format(q), limit, save)
+    query = " OR ".join(keywords)
+    raw_tweets = tc.get_raw_tweets("{} -filter:retweets -from:babylonhealth".format(query), limit)
 
-    # Reading raw tweets, extracting data into dataframe
-    processor = Processor(save)
+    raw_tweets_output = "../resources/outputs/raw_tweets_{}.json".format(get_timestamp())
+    with open(raw_tweets_output, 'w') as outfile:
+        json.dump(raw_tweets, outfile)
+
+    # Reading raw tweets, extracting data into dataframe, saving to csv
+    processor = Processor()
     dataframe = processor.extract_info()
 
+    dataframe_output_file = "../resources/outputs/dataframe_results_{}.csv".format(get_timestamp())
+    LOGGER.info("Saving dataframe to csv file 'resources/outputs/dataframe_results_{}.csv'".format(get_timestamp()))
+    dataframe.to_csv(dataframe_output_file)
+
+    # Producing some numbers with the data
+    summary_list = analyse(dataframe)
+    LOGGER.info("{} Result summary {}".format("~" * 10, "~" * 10))
+    LOGGER.info("\n\t".join(summary_list))
 
 
 if __name__ == "__main__":
