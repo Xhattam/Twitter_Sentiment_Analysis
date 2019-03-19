@@ -9,7 +9,6 @@ import tweepy
 from tweepy import OAuthHandler
 import json
 import logging
-from utils import get_timestamp
 
 logging.basicConfig(level="WARN")
 
@@ -24,7 +23,7 @@ class TwitterClient(object):
         consumer_secret = keys['consumer_secret']
         acces_token = keys['access_token']
         access_token_secret = keys['access_token_secret']
-        self.logger = logging.Logger(name="TwitterClient")
+        self._logger = logging.Logger(name="TwitterClient")
 
         try:
             self.auth = OAuthHandler(consumer_key, consumer_secret)
@@ -37,25 +36,23 @@ class TwitterClient(object):
         """ Main function to fetch tweets and parse them.
         :param query: seach query
         :param count: number of tweets to fetch
-        :param save: if True, saves to file (avoiding twitter API throttling)
         :returns: list of unique tweets """
 
-        # empty set to store parsed tweets (unique)
+        #  empty set to store parsed tweets (unique)
         tweets = []
-        self.logger.info("Querying Twitter...")
+        self._logger.info("Querying Twitter...")
         try:
-            # call twitter api to fetch tweets
+            #  call twitter api to fetch tweets
             fetched_tweets = [status for status in tweepy.Cursor(
                 self.api.search, q=query, tweet_mode='extended').items(count)]
 
             for tweet in fetched_tweets:
                 tweets.append(tweet._json)
 
-            self.logger.info("Fetched {}/{} tweets".format(len(fetched_tweets), count))
+            self._logger.info("Fetched {}/{} tweets".format(len(fetched_tweets), count))
 
-            self.logger.info("Writing fetched tweet to json file...")
+            self._logger.info("Writing fetched tweet to json file...")
             return tweets
 
         except tweepy.TweepError as e:
-            self.logger.error("Error fetching tweets: " + str(e))
-
+            self._logger.error("Error fetching tweets: " + str(e))

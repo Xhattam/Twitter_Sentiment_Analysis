@@ -1,0 +1,2314 @@
+[{
+  "created_at": "Tue Mar 19 11:41:57 +0000 2019",
+  "id": 1107970461856612353,
+  "id_str": "1107970461856612353",
+  "full_text": "@DrMurphy11 @babylonhealth @BadBotThreads And, a warning:\nhttps://t.co/GocsFiv7Kz",
+  "truncated": false,
+  "display_text_range": [42, 81],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "DrMurphy11",
+      "name": "Dr Murphy",
+      "id": 724997502244675584,
+      "id_str": "724997502244675584",
+      "indices": [0, 11]
+    }, {
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [12, 26]
+    }, {
+      "screen_name": "BadBotThreads",
+      "name": "BadBotThreads",
+      "id": 1061253922336194560,
+      "id_str": "1061253922336194560",
+      "indices": [27, 41]
+    }],
+    "urls": [{
+      "url": "https://t.co/GocsFiv7Kz",
+      "expanded_url": "https://khn.org/news/death-by-a-thousand-clicks/",
+      "display_url": "khn.org/news/death-by-\u2026",
+      "indices": [58, 81]
+    }]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": 1107945742432419840,
+  "in_reply_to_status_id_str": "1107945742432419840",
+  "in_reply_to_user_id": 185593549,
+  "in_reply_to_user_id_str": "185593549",
+  "in_reply_to_screen_name": "RobertDDyson",
+  "user": {
+    "id": 185593549,
+    "id_str": "185593549",
+    "name": "Robert Dyson",
+    "screen_name": "RobertDDyson",
+    "location": "Oxford, England",
+    "description": "Scientist & Musician, started academic but moved to industrial R&D: mathematical, engineering, electronic and medical work, learning a lot == happy OAP.",
+    "url": "http://t.co/yfHaNF5qhS",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/yfHaNF5qhS",
+          "expanded_url": "http://www.robertdyson.net",
+          "display_url": "robertdyson.net",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 262,
+    "friends_count": 77,
+    "listed_count": 0,
+    "created_at": "Wed Sep 01 11:01:42 +0000 2010",
+    "favourites_count": 17874,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4218,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/797409388663308288/miPkF3wf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/797409388663308288/miPkF3wf_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 11:04:28 +0000 2019",
+  "id": 1107961028275523585,
+  "id_str": "1107961028275523585",
+  "full_text": "@DrMurphy11 @TELUS @babylonhealth @CBCNews @BadBotThreads It will play well in every money-driven health insurance market as each \"worried well\" having additional consultations will pay privately or an insurer wilk (which then recoups via increased premiums) - makes me so angry.",
+  "truncated": false,
+  "display_text_range": [58, 279],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "DrMurphy11",
+      "name": "Dr Murphy",
+      "id": 724997502244675584,
+      "id_str": "724997502244675584",
+      "indices": [0, 11]
+    }, {
+      "screen_name": "TELUS",
+      "name": "TELUS",
+      "id": 6975832,
+      "id_str": "6975832",
+      "indices": [12, 18]
+    }, {
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [19, 33]
+    }, {
+      "screen_name": "CBCNews",
+      "name": "CBC News",
+      "id": 6433472,
+      "id_str": "6433472",
+      "indices": [34, 42]
+    }, {
+      "screen_name": "BadBotThreads",
+      "name": "BadBotThreads",
+      "id": 1061253922336194560,
+      "id_str": "1061253922336194560",
+      "indices": [43, 57]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1107634249937682432,
+  "in_reply_to_status_id_str": "1107634249937682432",
+  "in_reply_to_user_id": 724997502244675584,
+  "in_reply_to_user_id_str": "724997502244675584",
+  "in_reply_to_screen_name": "DrMurphy11",
+  "user": {
+    "id": 232144061,
+    "id_str": "232144061",
+    "name": "Joanne Clements #NHSLove",
+    "screen_name": "joannekarma",
+    "location": "London/Kent",
+    "description": "",
+    "url": "https://t.co/AeRsp2wn4U",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/AeRsp2wn4U",
+          "expanded_url": "http://www.joanneclements.com",
+          "display_url": "joanneclements.com",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 673,
+    "friends_count": 802,
+    "listed_count": 95,
+    "created_at": "Thu Dec 30 10:36:15 +0000 2010",
+    "favourites_count": 59915,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 62198,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/873182361030201344/Vjy5arMx_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/873182361030201344/Vjy5arMx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/232144061/1552751219",
+    "profile_link_color": "4B088A",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 10:05:05 +0000 2019",
+  "id": 1107946084326952961,
+  "id_str": "1107946084326952961",
+  "full_text": "Extensa, completa y actualizada informaci\u00f3n sobre la experiencia de @babylonhealth en UK. The messy, cautionary tale of how Babylon disrupted the NHS https://t.co/JPH5M5NBBW via @WIRED",
+  "truncated": false,
+  "display_text_range": [0, 184],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [68, 82]
+    }, {
+      "screen_name": "WIRED",
+      "name": "WIRED",
+      "id": 1344951,
+      "id_str": "1344951",
+      "indices": [178, 184]
+    }],
+    "urls": [{
+      "url": "https://t.co/JPH5M5NBBW",
+      "expanded_url": "http://ow.ly/Fmgy30o6k2S",
+      "display_url": "ow.ly/Fmgy30o6k2S",
+      "indices": [150, 173]
+    }]
+  },
+  "metadata": {
+    "result_type": "recent",
+    "iso_language_code": "ca"
+  },
+  "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 179876891,
+    "id_str": "179876891",
+    "name": "Jose Miguel Cacho",
+    "screen_name": "josemiguelcacho",
+    "location": "Madrid",
+    "description": "En @CuraeSalud Estrategia y educaci\u00f3n en Digital Health | eHealth | mHealth | ePharmacy | En #PeopleintheeSalud Divulgaci\u00f3n web https://t.co/1lyp1ORjgX",
+    "url": "https://t.co/oSM94tiy3v",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/oSM94tiy3v",
+          "expanded_url": "http://www.linkedin.com/in/josemiguelcacho",
+          "display_url": "linkedin.com/in/josemiguelc\u2026",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": [{
+          "url": "https://t.co/1lyp1ORjgX",
+          "expanded_url": "http://jmcacho.wordpress.com",
+          "display_url": "jmcacho.wordpress.com",
+          "indices": [128, 151]
+        }]
+      }
+    },
+    "protected": false,
+    "followers_count": 1802,
+    "friends_count": 1321,
+    "listed_count": 375,
+    "created_at": "Wed Aug 18 09:12:57 +0000 2010",
+    "favourites_count": 2787,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8857,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1013837348654714881/Jeu5STSv_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013837348654714881/Jeu5STSv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/179876891/1462792790",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "ca"
+}, {
+  "created_at": "Tue Mar 19 10:04:55 +0000 2019",
+  "id": 1107946040827830273,
+  "id_str": "1107946040827830273",
+  "full_text": "@babylonhealth @MikeStuchbery_ Ok you\u2019re scary now ;)",
+  "truncated": false,
+  "display_text_range": [31, 53],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [0, 14]
+    }, {
+      "screen_name": "MikeStuchbery_",
+      "name": "Mike Stuchbery\ud83d\udc80\ud83c\udf77",
+      "id": 2546258378,
+      "id_str": "2546258378",
+      "indices": [15, 30]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1107945925366956037,
+  "in_reply_to_status_id_str": "1107945925366956037",
+  "in_reply_to_user_id": 2359702885,
+  "in_reply_to_user_id_str": "2359702885",
+  "in_reply_to_screen_name": "babylonhealth",
+  "user": {
+    "id": 729635213136007168,
+    "id_str": "729635213136007168",
+    "name": "There is no sensible Brexit #fbpe \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\uddea\ud83c\uddfa\ud83c\uddec\ud83c\udde7",
+    "screen_name": "iggynowa",
+    "location": "London, England",
+    "description": "Would like to talk about all the good things in life but instead talk about Brexit.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 120,
+    "friends_count": 476,
+    "listed_count": 3,
+    "created_at": "Mon May 09 11:32:45 +0000 2016",
+    "favourites_count": 2753,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2087,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1096308178562760705/tL3rWwW6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096308178562760705/tL3rWwW6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/729635213136007168/1546014148",
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 10:03:44 +0000 2019",
+  "id": 1107945742432419840,
+  "id_str": "1107945742432419840",
+  "full_text": "@DrMurphy11 @babylonhealth @BadBotThreads My experience is that medics care about tech - but the tech that helps them give better treatment. On &amp; off over decades I have worked with people in the NHS on tech, I trust them to know what they want. My local hospital invited a friend from the US over to discuss cardio scans.",
+  "truncated": false,
+  "display_text_range": [42, 326],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "DrMurphy11",
+      "name": "Dr Murphy",
+      "id": 724997502244675584,
+      "id_str": "724997502244675584",
+      "indices": [0, 11]
+    }, {
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [12, 26]
+    }, {
+      "screen_name": "BadBotThreads",
+      "name": "BadBotThreads",
+      "id": 1061253922336194560,
+      "id_str": "1061253922336194560",
+      "indices": [27, 41]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": 1107732844753899522,
+  "in_reply_to_status_id_str": "1107732844753899522",
+  "in_reply_to_user_id": 724997502244675584,
+  "in_reply_to_user_id_str": "724997502244675584",
+  "in_reply_to_screen_name": "DrMurphy11",
+  "user": {
+    "id": 185593549,
+    "id_str": "185593549",
+    "name": "Robert Dyson",
+    "screen_name": "RobertDDyson",
+    "location": "Oxford, England",
+    "description": "Scientist & Musician, started academic but moved to industrial R&D: mathematical, engineering, electronic and medical work, learning a lot == happy OAP.",
+    "url": "http://t.co/yfHaNF5qhS",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "http://t.co/yfHaNF5qhS",
+          "expanded_url": "http://www.robertdyson.net",
+          "display_url": "robertdyson.net",
+          "indices": [0, 22]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 262,
+    "friends_count": 77,
+    "listed_count": 0,
+    "created_at": "Wed Sep 01 11:01:42 +0000 2010",
+    "favourites_count": 17874,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4218,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/797409388663308288/miPkF3wf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/797409388663308288/miPkF3wf_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 09:36:25 +0000 2019",
+  "id": 1107938867963936768,
+  "id_str": "1107938867963936768",
+  "full_text": "\u2066@babylonhealth\u2069 are really shaking up #medicine - but this article shows how the multiple layers of complexity in #healthcare systems can hold back rapid #innovation progress:\n\nThe messy, cautionary tale of how Babylon disrupted the NHS - WIRED UK https://t.co/kbh49vESIU",
+  "truncated": false,
+  "display_text_range": [0, 272],
+  "entities": {
+    "hashtags": [{
+      "text": "medicine",
+      "indices": [39, 48]
+    }, {
+      "text": "healthcare",
+      "indices": [115, 126]
+    }, {
+      "text": "innovation",
+      "indices": [155, 166]
+    }],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [1, 15]
+    }],
+    "urls": [{
+      "url": "https://t.co/kbh49vESIU",
+      "expanded_url": "https://apple.news/AyDDenP0aSOS-RRZLFgPl2w",
+      "display_url": "apple.news/AyDDenP0aSOS-R\u2026",
+      "indices": [249, 272]
+    }]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 636931259,
+    "id_str": "636931259",
+    "name": "Medical Reel",
+    "screen_name": "MedicalReel",
+    "location": "London, UK",
+    "description": "Medical Reel shares medical technology, research and education updates for all. Enjoy the Reel. #MedTech #MedEd",
+    "url": "https://t.co/xYv2Q3ojuP",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/xYv2Q3ojuP",
+          "expanded_url": "http://bit.ly/medreel",
+          "display_url": "bit.ly/medreel",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 24047,
+    "friends_count": 2237,
+    "listed_count": 350,
+    "created_at": "Mon Jul 16 12:25:43 +0000 2012",
+    "favourites_count": 290,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13912,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F59623",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2410170922/r2rk6q48wd74ftp94qi9_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2410170922/r2rk6q48wd74ftp94qi9_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/636931259/1353243264",
+    "profile_link_color": "FAB81E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 09:02:52 +0000 2019",
+  "id": 1107930426314801152,
+  "id_str": "1107930426314801152",
+  "full_text": "@hannahchrstina @natehiggins @DrMurphy11 @babylonhealth @GPatHand Plus their AI development is going to be a game changer in the future. It should be able to diagnose better than real life doctors eventually \ud83d\ude00",
+  "truncated": false,
+  "display_text_range": [66, 209],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "hannahchrstina",
+      "name": "Hannah",
+      "id": 722435545608163328,
+      "id_str": "722435545608163328",
+      "indices": [0, 15]
+    }, {
+      "screen_name": "natehiggins",
+      "name": "Nate Higgins",
+      "id": 4690008469,
+      "id_str": "4690008469",
+      "indices": [16, 28]
+    }, {
+      "screen_name": "DrMurphy11",
+      "name": "Dr Murphy",
+      "id": 724997502244675584,
+      "id_str": "724997502244675584",
+      "indices": [29, 40]
+    }, {
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [41, 55]
+    }, {
+      "screen_name": "GPatHand",
+      "name": "Babylon GP at hand",
+      "id": 848910780745621504,
+      "id_str": "848910780745621504",
+      "indices": [56, 65]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1107930245926129664,
+  "in_reply_to_status_id_str": "1107930245926129664",
+  "in_reply_to_user_id": 2218149509,
+  "in_reply_to_user_id_str": "2218149509",
+  "in_reply_to_screen_name": "alexazz_",
+  "user": {
+    "id": 2218149509,
+    "id_str": "2218149509",
+    "name": "Alexazz_",
+    "screen_name": "alexazz_",
+    "location": "United Kingdom",
+    "description": ".",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2,
+    "friends_count": 48,
+    "listed_count": 0,
+    "created_at": "Tue Dec 10 19:55:45 +0000 2013",
+    "favourites_count": 635,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 125,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 09:02:09 +0000 2019",
+  "id": 1107930245926129664,
+  "id_str": "1107930245926129664",
+  "full_text": "@hannahchrstina @natehiggins @DrMurphy11 @babylonhealth @GPatHand Currently I find normal GP services to be a bit rubbish tbh - limited out of office hours opening times and long waits for non urgent appointments are particularly annoying. Babylon let's you pick a time the same day and talk from the comfort of your own home. It's great.",
+  "truncated": false,
+  "display_text_range": [66, 338],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "hannahchrstina",
+      "name": "Hannah",
+      "id": 722435545608163328,
+      "id_str": "722435545608163328",
+      "indices": [0, 15]
+    }, {
+      "screen_name": "natehiggins",
+      "name": "Nate Higgins",
+      "id": 4690008469,
+      "id_str": "4690008469",
+      "indices": [16, 28]
+    }, {
+      "screen_name": "DrMurphy11",
+      "name": "Dr Murphy",
+      "id": 724997502244675584,
+      "id_str": "724997502244675584",
+      "indices": [29, 40]
+    }, {
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [41, 55]
+    }, {
+      "screen_name": "GPatHand",
+      "name": "Babylon GP at hand",
+      "id": 848910780745621504,
+      "id_str": "848910780745621504",
+      "indices": [56, 65]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1107929017385136128,
+  "in_reply_to_status_id_str": "1107929017385136128",
+  "in_reply_to_user_id": 2218149509,
+  "in_reply_to_user_id_str": "2218149509",
+  "in_reply_to_screen_name": "alexazz_",
+  "user": {
+    "id": 2218149509,
+    "id_str": "2218149509",
+    "name": "Alexazz_",
+    "screen_name": "alexazz_",
+    "location": "United Kingdom",
+    "description": ".",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2,
+    "friends_count": 48,
+    "listed_count": 0,
+    "created_at": "Tue Dec 10 19:55:45 +0000 2013",
+    "favourites_count": 635,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 125,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 08:57:16 +0000 2019",
+  "id": 1107929017385136128,
+  "id_str": "1107929017385136128",
+  "full_text": "@hannahchrstina @natehiggins @DrMurphy11 @babylonhealth @GPatHand I struggled to get travel vaccines from normal GP due to limited opening times and appointment waits, so it's not just a babylon issue. On the complex case point, that does seem trickier. Setting up more (local) babylon sites might solve this, or partnerships with local GPs.",
+  "truncated": false,
+  "display_text_range": [66, 341],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "hannahchrstina",
+      "name": "Hannah",
+      "id": 722435545608163328,
+      "id_str": "722435545608163328",
+      "indices": [0, 15]
+    }, {
+      "screen_name": "natehiggins",
+      "name": "Nate Higgins",
+      "id": 4690008469,
+      "id_str": "4690008469",
+      "indices": [16, 28]
+    }, {
+      "screen_name": "DrMurphy11",
+      "name": "Dr Murphy",
+      "id": 724997502244675584,
+      "id_str": "724997502244675584",
+      "indices": [29, 40]
+    }, {
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [41, 55]
+    }, {
+      "screen_name": "GPatHand",
+      "name": "Babylon GP at hand",
+      "id": 848910780745621504,
+      "id_str": "848910780745621504",
+      "indices": [56, 65]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1107928018373218304,
+  "in_reply_to_status_id_str": "1107928018373218304",
+  "in_reply_to_user_id": 2218149509,
+  "in_reply_to_user_id_str": "2218149509",
+  "in_reply_to_screen_name": "alexazz_",
+  "user": {
+    "id": 2218149509,
+    "id_str": "2218149509",
+    "name": "Alexazz_",
+    "screen_name": "alexazz_",
+    "location": "United Kingdom",
+    "description": ".",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2,
+    "friends_count": 48,
+    "listed_count": 0,
+    "created_at": "Tue Dec 10 19:55:45 +0000 2013",
+    "favourites_count": 635,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 125,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 08:53:18 +0000 2019",
+  "id": 1107928018373218304,
+  "id_str": "1107928018373218304",
+  "full_text": "@hannahchrstina @natehiggins @DrMurphy11 @babylonhealth @GPatHand That's my suggested solution to the problem of underfunding in the Fulham CCG. If cherry picking is an issue, it looks like the age related fee needs to have a larger weight. On the travel vaccine wait point, it's not the end of the world - they can fix that.",
+  "truncated": false,
+  "display_text_range": [66, 325],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "hannahchrstina",
+      "name": "Hannah",
+      "id": 722435545608163328,
+      "id_str": "722435545608163328",
+      "indices": [0, 15]
+    }, {
+      "screen_name": "natehiggins",
+      "name": "Nate Higgins",
+      "id": 4690008469,
+      "id_str": "4690008469",
+      "indices": [16, 28]
+    }, {
+      "screen_name": "DrMurphy11",
+      "name": "Dr Murphy",
+      "id": 724997502244675584,
+      "id_str": "724997502244675584",
+      "indices": [29, 40]
+    }, {
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [41, 55]
+    }, {
+      "screen_name": "GPatHand",
+      "name": "Babylon GP at hand",
+      "id": 848910780745621504,
+      "id_str": "848910780745621504",
+      "indices": [56, 65]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1107924621469323264,
+  "in_reply_to_status_id_str": "1107924621469323264",
+  "in_reply_to_user_id": 722435545608163328,
+  "in_reply_to_user_id_str": "722435545608163328",
+  "in_reply_to_screen_name": "hannahchrstina",
+  "user": {
+    "id": 2218149509,
+    "id_str": "2218149509",
+    "name": "Alexazz_",
+    "screen_name": "alexazz_",
+    "location": "United Kingdom",
+    "description": ".",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2,
+    "friends_count": 48,
+    "listed_count": 0,
+    "created_at": "Tue Dec 10 19:55:45 +0000 2013",
+    "favourites_count": 635,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 125,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 08:46:25 +0000 2019",
+  "id": 1107926284686913537,
+  "id_str": "1107926284686913537",
+  "full_text": "Which means @babylonhealth &amp; @GPatHand experiment is conflating 2 tech services and 2 funding streams at once. I\u2019m sure those consultants the UK gov hires for the NHS will have drawn @matthancock &amp; Ali Parsa the 2 x 2 telling them not to do a new product in a new environment /5",
+  "truncated": false,
+  "display_text_range": [0, 286],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [12, 26]
+    }, {
+      "screen_name": "GPatHand",
+      "name": "Babylon GP at hand",
+      "id": 848910780745621504,
+      "id_str": "848910780745621504",
+      "indices": [33, 42]
+    }, {
+      "screen_name": "MattHancock",
+      "name": "Matt Hancock",
+      "id": 19825835,
+      "id_str": "19825835",
+      "indices": [187, 199]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "in_reply_to_status_id": 1107924546030465024,
+  "in_reply_to_status_id_str": "1107924546030465024",
+  "in_reply_to_user_id": 1248081,
+  "in_reply_to_user_id_str": "1248081",
+  "in_reply_to_screen_name": "boltyboy",
+  "user": {
+    "id": 1248081,
+    "id_str": "1248081",
+    "name": "Matthew Holt",
+    "screen_name": "boltyboy",
+    "location": "San Anselmo, CA",
+    "description": "Founder @THCBStaff @health2con; Now https://t.co/nAX5p9YHVa  https://t.co/Ykr0MkZrO8; On @YTHorg & @s4pm boards. Topics: health, IT, politics, soccer, etc",
+    "url": "https://t.co/nAX5p9YHVa",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/nAX5p9YHVa",
+          "expanded_url": "http://smack.health",
+          "display_url": "smack.health",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": [{
+          "url": "https://t.co/nAX5p9YHVa",
+          "expanded_url": "http://smack.health",
+          "display_url": "smack.health",
+          "indices": [36, 59]
+        }, {
+          "url": "https://t.co/Ykr0MkZrO8",
+          "expanded_url": "http://catalyst.health",
+          "display_url": "catalyst.health",
+          "indices": [61, 84]
+        }]
+      }
+    },
+    "protected": false,
+    "followers_count": 22772,
+    "friends_count": 1630,
+    "listed_count": 1162,
+    "created_at": "Thu Mar 15 21:16:32 +0000 2007",
+    "favourites_count": 3502,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 30474,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/753483948219523072/ygNzgQLK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/753483948219523072/ygNzgQLK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248081/1525633898",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 08:39:48 +0000 2019",
+  "id": 1107924621469323264,
+  "id_str": "1107924621469323264",
+  "full_text": "@alexazz_ @natehiggins @DrMurphy11 @babylonhealth @GPatHand That isn't what it says!",
+  "truncated": false,
+  "display_text_range": [60, 84],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "alexazz_",
+      "name": "Alexazz_",
+      "id": 2218149509,
+      "id_str": "2218149509",
+      "indices": [0, 9]
+    }, {
+      "screen_name": "natehiggins",
+      "name": "Nate Higgins",
+      "id": 4690008469,
+      "id_str": "4690008469",
+      "indices": [10, 22]
+    }, {
+      "screen_name": "DrMurphy11",
+      "name": "Dr Murphy",
+      "id": 724997502244675584,
+      "id_str": "724997502244675584",
+      "indices": [23, 34]
+    }, {
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [35, 49]
+    }, {
+      "screen_name": "GPatHand",
+      "name": "Babylon GP at hand",
+      "id": 848910780745621504,
+      "id_str": "848910780745621504",
+      "indices": [50, 59]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1107739356570284032,
+  "in_reply_to_status_id_str": "1107739356570284032",
+  "in_reply_to_user_id": 2218149509,
+  "in_reply_to_user_id_str": "2218149509",
+  "in_reply_to_screen_name": "alexazz_",
+  "user": {
+    "id": 722435545608163328,
+    "id_str": "722435545608163328",
+    "name": "Hannah",
+    "screen_name": "hannahchrstina",
+    "location": "",
+    "description": "previously law @magdalenoxford, now unashamed london millennial",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 749,
+    "friends_count": 988,
+    "listed_count": 4,
+    "created_at": "Tue Apr 19 14:43:51 +0000 2016",
+    "favourites_count": 27579,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8657,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/852075084034576384/tKL58v1X_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/852075084034576384/tKL58v1X_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 08:39:30 +0000 2019",
+  "id": 1107924546030465024,
+  "id_str": "1107924546030465024",
+  "full_text": "When those chatbots (@babylonhealth @avahealth @buoyhealth) get really smart, they are going to have a big impact BUT we aren\u2019t even at the driverless car level of tech in health care yet /4",
+  "truncated": false,
+  "display_text_range": [0, 190],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [21, 35]
+    }, {
+      "screen_name": "avahealth",
+      "name": "AVA Health",
+      "id": 1240450038,
+      "id_str": "1240450038",
+      "indices": [36, 46]
+    }, {
+      "screen_name": "buoyhealth",
+      "name": "Buoy Health",
+      "id": 707942936915402752,
+      "id_str": "707942936915402752",
+      "indices": [47, 58]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "in_reply_to_status_id": 1107923826963181573,
+  "in_reply_to_status_id_str": "1107923826963181573",
+  "in_reply_to_user_id": 1248081,
+  "in_reply_to_user_id_str": "1248081",
+  "in_reply_to_screen_name": "boltyboy",
+  "user": {
+    "id": 1248081,
+    "id_str": "1248081",
+    "name": "Matthew Holt",
+    "screen_name": "boltyboy",
+    "location": "San Anselmo, CA",
+    "description": "Founder @THCBStaff @health2con; Now https://t.co/nAX5p9YHVa  https://t.co/Ykr0MkZrO8; On @YTHorg & @s4pm boards. Topics: health, IT, politics, soccer, etc",
+    "url": "https://t.co/nAX5p9YHVa",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/nAX5p9YHVa",
+          "expanded_url": "http://smack.health",
+          "display_url": "smack.health",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": [{
+          "url": "https://t.co/nAX5p9YHVa",
+          "expanded_url": "http://smack.health",
+          "display_url": "smack.health",
+          "indices": [36, 59]
+        }, {
+          "url": "https://t.co/Ykr0MkZrO8",
+          "expanded_url": "http://catalyst.health",
+          "display_url": "catalyst.health",
+          "indices": [61, 84]
+        }]
+      }
+    },
+    "protected": false,
+    "followers_count": 22772,
+    "friends_count": 1630,
+    "listed_count": 1162,
+    "created_at": "Thu Mar 15 21:16:32 +0000 2007",
+    "favourites_count": 3502,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 30474,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/753483948219523072/ygNzgQLK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/753483948219523072/ygNzgQLK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248081/1525633898",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 08:36:39 +0000 2019",
+  "id": 1107923826963181573,
+  "id_str": "1107923826963181573",
+  "full_text": "The \u201cother\u201d @babylonhealth is an AI based chatbot that is the cleverest diagnostician on the planet/cant diagnose an obvious heart attack (delete where applicable based on your view). As @ManeeshJuneja will tell you, there\u2019s a lot of potential here but... /3",
+  "truncated": false,
+  "display_text_range": [0, 258],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [12, 26]
+    }, {
+      "screen_name": "ManeeshJuneja",
+      "name": "Digital Health Futurist \ud83d\udc68\u200d\ud83d\udcbb",
+      "id": 416646214,
+      "id_str": "416646214",
+      "indices": [187, 201]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "in_reply_to_status_id": 1107922905139023872,
+  "in_reply_to_status_id_str": "1107922905139023872",
+  "in_reply_to_user_id": 1248081,
+  "in_reply_to_user_id_str": "1248081",
+  "in_reply_to_screen_name": "boltyboy",
+  "user": {
+    "id": 1248081,
+    "id_str": "1248081",
+    "name": "Matthew Holt",
+    "screen_name": "boltyboy",
+    "location": "San Anselmo, CA",
+    "description": "Founder @THCBStaff @health2con; Now https://t.co/nAX5p9YHVa  https://t.co/Ykr0MkZrO8; On @YTHorg & @s4pm boards. Topics: health, IT, politics, soccer, etc",
+    "url": "https://t.co/nAX5p9YHVa",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/nAX5p9YHVa",
+          "expanded_url": "http://smack.health",
+          "display_url": "smack.health",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": [{
+          "url": "https://t.co/nAX5p9YHVa",
+          "expanded_url": "http://smack.health",
+          "display_url": "smack.health",
+          "indices": [36, 59]
+        }, {
+          "url": "https://t.co/Ykr0MkZrO8",
+          "expanded_url": "http://catalyst.health",
+          "display_url": "catalyst.health",
+          "indices": [61, 84]
+        }]
+      }
+    },
+    "protected": false,
+    "followers_count": 22772,
+    "friends_count": 1630,
+    "listed_count": 1162,
+    "created_at": "Thu Mar 15 21:16:32 +0000 2007",
+    "favourites_count": 3502,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 30474,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/753483948219523072/ygNzgQLK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/753483948219523072/ygNzgQLK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248081/1525633898",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 08:32:59 +0000 2019",
+  "id": 1107922905139023872,
+  "id_str": "1107922905139023872",
+  "full_text": "Also pretty clear that there are \u201c2 @babylonhealth (s). 1 is a medical group using a mix of simple forms &amp; telehealth (a la @lemonaidhealth @SherpaaHealth) Why wouldn\u2019t the NHS let the equivalent of @Zipnosis be used by any GP instead of segregating the young healthys /2",
+  "truncated": false,
+  "display_text_range": [0, 275],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [36, 50]
+    }, {
+      "screen_name": "lemonaidhealth",
+      "name": "Lemonaid Health",
+      "id": 3256746908,
+      "id_str": "3256746908",
+      "indices": [128, 143]
+    }, {
+      "screen_name": "SherpaaHealth",
+      "name": "Sherpaa",
+      "id": 856506738,
+      "id_str": "856506738",
+      "indices": [144, 158]
+    }, {
+      "screen_name": "Zipnosis",
+      "name": "Zipnosis",
+      "id": 83674395,
+      "id_str": "83674395",
+      "indices": [203, 212]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "in_reply_to_status_id": 1107920761933709312,
+  "in_reply_to_status_id_str": "1107920761933709312",
+  "in_reply_to_user_id": 1248081,
+  "in_reply_to_user_id_str": "1248081",
+  "in_reply_to_screen_name": "boltyboy",
+  "user": {
+    "id": 1248081,
+    "id_str": "1248081",
+    "name": "Matthew Holt",
+    "screen_name": "boltyboy",
+    "location": "San Anselmo, CA",
+    "description": "Founder @THCBStaff @health2con; Now https://t.co/nAX5p9YHVa  https://t.co/Ykr0MkZrO8; On @YTHorg & @s4pm boards. Topics: health, IT, politics, soccer, etc",
+    "url": "https://t.co/nAX5p9YHVa",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/nAX5p9YHVa",
+          "expanded_url": "http://smack.health",
+          "display_url": "smack.health",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": [{
+          "url": "https://t.co/nAX5p9YHVa",
+          "expanded_url": "http://smack.health",
+          "display_url": "smack.health",
+          "indices": [36, 59]
+        }, {
+          "url": "https://t.co/Ykr0MkZrO8",
+          "expanded_url": "http://catalyst.health",
+          "display_url": "catalyst.health",
+          "indices": [61, 84]
+        }]
+      }
+    },
+    "protected": false,
+    "followers_count": 22772,
+    "friends_count": 1630,
+    "listed_count": 1162,
+    "created_at": "Thu Mar 15 21:16:32 +0000 2007",
+    "favourites_count": 3502,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 30474,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/753483948219523072/ygNzgQLK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/753483948219523072/ygNzgQLK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248081/1525633898",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Tue Mar 19 08:24:28 +0000 2019",
+  "id": 1107920761933709312,
+  "id_str": "1107920761933709312",
+  "full_text": "Interesting piece on @babylonhealth but what it demonstrates is that the NHS hasn\u2019t figured out how to fix the funding scheme that puts too much money ate GP and CCG level. Theoretically AI + telemedicine ought to be saving the NHS money for simple cases https://t.co/zh1lKFQFmG",
+  "truncated": false,
+  "display_text_range": [0, 254],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [21, 35]
+    }],
+    "urls": [{
+      "url": "https://t.co/zh1lKFQFmG",
+      "expanded_url": "https://twitter.com/mattburgess1/status/1107628728396464132",
+      "display_url": "twitter.com/mattburgess1/s\u2026",
+      "indices": [255, 278]
+    }]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1248081,
+    "id_str": "1248081",
+    "name": "Matthew Holt",
+    "screen_name": "boltyboy",
+    "location": "San Anselmo, CA",
+    "description": "Founder @THCBStaff @health2con; Now https://t.co/nAX5p9YHVa  https://t.co/Ykr0MkZrO8; On @YTHorg & @s4pm boards. Topics: health, IT, politics, soccer, etc",
+    "url": "https://t.co/nAX5p9YHVa",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/nAX5p9YHVa",
+          "expanded_url": "http://smack.health",
+          "display_url": "smack.health",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": [{
+          "url": "https://t.co/nAX5p9YHVa",
+          "expanded_url": "http://smack.health",
+          "display_url": "smack.health",
+          "indices": [36, 59]
+        }, {
+          "url": "https://t.co/Ykr0MkZrO8",
+          "expanded_url": "http://catalyst.health",
+          "display_url": "catalyst.health",
+          "indices": [61, 84]
+        }]
+      }
+    },
+    "protected": false,
+    "followers_count": 22772,
+    "friends_count": 1630,
+    "listed_count": 1162,
+    "created_at": "Thu Mar 15 21:16:32 +0000 2007",
+    "favourites_count": 3502,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 30474,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/753483948219523072/ygNzgQLK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/753483948219523072/ygNzgQLK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248081/1525633898",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1107628728396464132,
+  "quoted_status_id_str": "1107628728396464132",
+  "quoted_status": {
+    "created_at": "Mon Mar 18 13:04:02 +0000 2019",
+    "id": 1107628728396464132,
+    "id_str": "1107628728396464132",
+    "full_text": "Babylon is one of the UK's most promising tech startups. Thousands of people have downloaded its NHS app and health secretary Matt Hancock is a big fan.\n\nBut the strain the firm is putting on the NHS is worrying clinicians\n\nFull story: https://t.co/jI5W8DNyFD",
+    "truncated": false,
+    "display_text_range": [0, 259],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https://t.co/jI5W8DNyFD",
+        "expanded_url": "https://www.wired.co.uk/article/babylon-health-nhs",
+        "display_url": "wired.co.uk/article/babylo\u2026",
+        "indices": [236, 259]
+      }]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 123085951,
+      "id_str": "123085951",
+      "name": "Matt Burgess",
+      "screen_name": "mattburgess1",
+      "location": "London",
+      "description": "Doing things @wireduk",
+      "url": "https://t.co/fFiXySEdPE",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https://t.co/fFiXySEdPE",
+            "expanded_url": "http://mattburgess.co/",
+            "display_url": "mattburgess.co",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 8339,
+      "friends_count": 35,
+      "listed_count": 295,
+      "created_at": "Sun Mar 14 23:24:13 +0000 2010",
+      "favourites_count": 20950,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 40644,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/964213922571186177/FNuRZAGW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/964213922571186177/FNuRZAGW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/123085951/1468785363",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 45,
+    "favorite_count": 63,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 1,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}, {
+  "created_at": "Mon Mar 18 22:27:51 +0000 2019",
+  "id": 1107770619159068672,
+  "id_str": "1107770619159068672",
+  "full_text": "@ShafiAhmed5 @TelegraphTech Wonder how theyll do compared to @adahealth @babylonhealth etc @DrMurphy11",
+  "truncated": false,
+  "display_text_range": [28, 102],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "ShafiAhmed5",
+      "name": "Prof Shafi Ahmed",
+      "id": 458375698,
+      "id_str": "458375698",
+      "indices": [0, 12]
+    }, {
+      "screen_name": "TelegraphTech",
+      "name": "Telegraph Technology Intelligence",
+      "id": 19712106,
+      "id_str": "19712106",
+      "indices": [13, 27]
+    }, {
+      "screen_name": "adahealth",
+      "name": "Ada",
+      "id": 708215479861645313,
+      "id_str": "708215479861645313",
+      "indices": [61, 71]
+    }, {
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [72, 86]
+    }, {
+      "screen_name": "DrMurphy11",
+      "name": "Dr Murphy",
+      "id": 724997502244675584,
+      "id_str": "724997502244675584",
+      "indices": [91, 102]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1107743885286084609,
+  "in_reply_to_status_id_str": "1107743885286084609",
+  "in_reply_to_user_id": 458375698,
+  "in_reply_to_user_id_str": "458375698",
+  "in_reply_to_screen_name": "ShafiAhmed5",
+  "user": {
+    "id": 112492796,
+    "id_str": "112492796",
+    "name": "Dr Sandeep Bansal",
+    "screen_name": "iDrSunny",
+    "location": "Newport, UK",
+    "description": "Revolutionising Communications For Healthcare Organisations; NHS & Beyond @TheQCommunity Member. Mentor at @RCGP #IMP Founder @MedicBleep. Passionate about #NHS",
+    "url": "https://t.co/UMnBzSgkyE",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/UMnBzSgkyE",
+          "expanded_url": "http://www.medicbleep.com",
+          "display_url": "medicbleep.com",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1804,
+    "friends_count": 3911,
+    "listed_count": 89,
+    "created_at": "Mon Feb 08 18:07:30 +0000 2010",
+    "favourites_count": 7236,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1666,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912011244193771520/yJX1Es3d_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912011244193771520/yJX1Es3d_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/112492796/1506422997",
+    "profile_link_color": "89C9FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Mon Mar 18 21:06:20 +0000 2019",
+  "id": 1107750102691545088,
+  "id_str": "1107750102691545088",
+  "full_text": "@MattHancock Yet still pushes the dangerous @babylonhealth chatbot",
+  "truncated": false,
+  "display_text_range": [13, 66],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "MattHancock",
+      "name": "Matt Hancock",
+      "id": 19825835,
+      "id_str": "19825835",
+      "indices": [0, 12]
+    }, {
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [44, 58]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1107613076956815360,
+  "in_reply_to_status_id_str": "1107613076956815360",
+  "in_reply_to_user_id": 19825835,
+  "in_reply_to_user_id_str": "19825835",
+  "in_reply_to_screen_name": "MattHancock",
+  "user": {
+    "id": 55071624,
+    "id_str": "55071624",
+    "name": "Dr Pranev Sharma",
+    "screen_name": "psmedic",
+    "location": "Brisbane, Queensland",
+    "description": "Medical registrar \ud83c\uddec\ud83c\udde7 \u27a1\ufe0f \ud83c\udde6\ud83c\uddfa . Cardiology, Critical Care, Acute Medicine and healthcare management. Proud #remoaner. Politically complex. Views are my own.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 207,
+    "friends_count": 911,
+    "listed_count": 5,
+    "created_at": "Wed Jul 08 23:42:04 +0000 2009",
+    "favourites_count": 704,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2702,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "B81C1C",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1088538629532774400/uvq7vVvj_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088538629532774400/uvq7vVvj_normal.jpg",
+    "profile_link_color": "B81C1C",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Mon Mar 18 20:31:18 +0000 2019",
+  "id": 1107741286981910528,
+  "id_str": "1107741286981910528",
+  "full_text": "@DrMurphy11 @babylonhealth @BadBotThreads Rubbish! Do people who ask for evidence, who want tech with scientific credentials not the very best for their family? Who is he talking to? Who in the NHS is against modern tools? The ship is sinking! @doktor_glad go U.K., that\u2019s the place to be, greedy healthcare hyenas!",
+  "truncated": false,
+  "display_text_range": [42, 315],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "DrMurphy11",
+      "name": "Dr Murphy",
+      "id": 724997502244675584,
+      "id_str": "724997502244675584",
+      "indices": [0, 11]
+    }, {
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [12, 26]
+    }, {
+      "screen_name": "BadBotThreads",
+      "name": "BadBotThreads",
+      "id": 1061253922336194560,
+      "id_str": "1061253922336194560",
+      "indices": [27, 41]
+    }, {
+      "screen_name": "doktor_glad",
+      "name": "Doktor Glad AB",
+      "id": 962282500738428928,
+      "id_str": "962282500738428928",
+      "indices": [244, 256]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1107732844753899522,
+  "in_reply_to_status_id_str": "1107732844753899522",
+  "in_reply_to_user_id": 724997502244675584,
+  "in_reply_to_user_id_str": "724997502244675584",
+  "in_reply_to_screen_name": "DrMurphy11",
+  "user": {
+    "id": 794690088382898177,
+    "id_str": "794690088382898177",
+    "name": "christian schmitt",
+    "screen_name": "wuest23",
+    "location": "",
+    "description": "de w\u00fcst,  Less hype and hope, more transparency and science please",
+    "url": "https://t.co/WVB4Yi8uWK",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/WVB4Yi8uWK",
+          "expanded_url": "https://www.youtube.com/watch?v=i1d3Ej-Ymzw&feature=youtu.be",
+          "display_url": "youtube.com/watch?v=i1d3Ej\u2026",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 156,
+    "friends_count": 248,
+    "listed_count": 1,
+    "created_at": "Fri Nov 04 23:57:36 +0000 2016",
+    "favourites_count": 11570,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8758,
+    "lang": "de",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1043240073154715649/xxMKhPDG_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043240073154715649/xxMKhPDG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/794690088382898177/1537562766",
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}, {
+  "created_at": "Mon Mar 18 20:23:38 +0000 2019",
+  "id": 1107739356570284032,
+  "id_str": "1107739356570284032",
+  "full_text": "@natehiggins @DrMurphy11 @babylonhealth @GPatHand @hannahchrstina Have you used babylon? It's excellent. The article just points out a few niggles that need ironing out; e.g. funding money needs to be moved from the CCG of someone's residence to Babylon's CCG. Not hard. I'm glad Babylon are modernising healthcare as the NHS is so slow to do so",
+  "truncated": false,
+  "display_text_range": [66, 345],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "natehiggins",
+      "name": "Nate Higgins",
+      "id": 4690008469,
+      "id_str": "4690008469",
+      "indices": [0, 12]
+    }, {
+      "screen_name": "DrMurphy11",
+      "name": "Dr Murphy",
+      "id": 724997502244675584,
+      "id_str": "724997502244675584",
+      "indices": [13, 24]
+    }, {
+      "screen_name": "babylonhealth",
+      "name": "Babylon",
+      "id": 2359702885,
+      "id_str": "2359702885",
+      "indices": [25, 39]
+    }, {
+      "screen_name": "GPatHand",
+      "name": "Babylon GP at hand",
+      "id": 848910780745621504,
+      "id_str": "848910780745621504",
+      "indices": [40, 49]
+    }, {
+      "screen_name": "hannahchrstina",
+      "name": "Hannah",
+      "id": 722435545608163328,
+      "id_str": "722435545608163328",
+      "indices": [50, 65]
+    }],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 1107601206531317761,
+  "in_reply_to_status_id_str": "1107601206531317761",
+  "in_reply_to_user_id": 4690008469,
+  "in_reply_to_user_id_str": "4690008469",
+  "in_reply_to_screen_name": "natehiggins",
+  "user": {
+    "id": 2218149509,
+    "id_str": "2218149509",
+    "name": "Alexazz_",
+    "screen_name": "alexazz_",
+    "location": "United Kingdom",
+    "description": ".",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2,
+    "friends_count": 48,
+    "listed_count": 0,
+    "created_at": "Tue Dec 10 19:55:45 +0000 2013",
+    "favourites_count": 635,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 125,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}]

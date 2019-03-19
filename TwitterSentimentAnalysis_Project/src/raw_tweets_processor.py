@@ -17,10 +17,9 @@ logging.basicConfig(level="WARN")
 class Processor:
 
     def __init__(self):
-        self.raw_tweets = json.load(open("../resources/outputs/raw_tweets_full.json", "r"))
         self.mapped_months = {'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04', 'May': '05','Jun': '06', 'Jul': '07',
                               'Aug': '08', 'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'}
-        self.logger = logging.Logger(name="Processor")
+        self._logger = logging.Logger(name="Processor")
 
     @staticmethod
     def get_polarity(score):
@@ -50,20 +49,20 @@ class Processor:
         month, value, year = self.mapped_months[split[1]], split[2], split[-1]
         return "/".join([value, month, year])
 
-    def extract_info(self):
+    def extract_info(self, raw_tweets):
         """ Main extraction function, returns relevant fields for each tweet returned by the
             Twitter API
-        :param data: json file containing the raw extracted tweets
+        :param raw_tweets: list of extracted tweets, in json format
         :returns: dataframe of extracted information """
 
-        self.logger.info("Extracting data from tweets...")
+        self._logger.info("Extracting data from tweets...")
 
         fields = ['u_name', 'u_screen_name', 't_date', 't_text', 't_polarity_score',
                   't_polarity', 't_subjectivity_score', 'u_followers', 't_retweets',
                   't_favorited', 't_mentions']
 
         all_extracted = {k: [] for k in fields}
-        for tweet in self.raw_tweets:
+        for tweet in raw_tweets:
             all_extracted['u_name'].append(tweet['user']['name'])
             all_extracted['u_screen_name'].append(tweet['user']['screen_name'])
             all_extracted['t_date'].append(self.get_readable_date(tweet['created_at']))
