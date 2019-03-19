@@ -12,7 +12,7 @@ import logging
 from os.path import abspath
 from utils import get_timestamp
 
-logging.basicConfig(level="WARN")
+logging.basicConfig(level="INFO")
 
 
 class PrettyAnalyser:
@@ -96,9 +96,10 @@ class PrettyAnalyser:
         """
         # creating new dataframe with user and tweet counts as columns
         users = df['u_screen_name'].value_counts().rename_axis('u_screen_name').reset_index(name='tweets')
-        palette = sns.cubehelix_palette(len(users), reverse=True, light=0.8, dark=0.1)
+        show_n_users = 50
+        palette = sns.cubehelix_palette(show_n_users, reverse=True, light=0.8, dark=0.1)
         self.horiz_plot(data=users, x="tweets", y="u_screen_name", label="#tweets", palette=palette,
-                        xlim_upper=max(users['tweets'])+1, max_values=50, figsize=(15, 25),
+                        xlim_upper=max(users['tweets'])+1, max_values=show_n_users, figsize=(15, 25),
                         title="Number of tweets per user (50 users)",
                         output_name="most_active_50_users_per_number_of_tweets_{}".format(get_timestamp()))
 
@@ -109,7 +110,7 @@ class PrettyAnalyser:
         neg = df.loc[df['t_polarity'] == 'Negative']
         neu = df.loc[df['t_polarity'] == 'Neutral']
         sizes = [len(pos), len(neu), len(neg)]
-        cols = ['g', 'white', 'r']
+        cols = ['g', 'lavender', 'r']
 
         fig1, ax1 = plt.subplots()
         ax1.pie(sizes, labels=labels, autopct='%1.1f%%', shadow=True, colors=cols)

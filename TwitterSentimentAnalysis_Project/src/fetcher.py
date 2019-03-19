@@ -10,7 +10,7 @@ from tweepy import OAuthHandler
 import json
 import logging
 
-logging.basicConfig(level="WARN")
+logging.basicConfig(level="INFO")
 
 
 class TwitterClient(object):

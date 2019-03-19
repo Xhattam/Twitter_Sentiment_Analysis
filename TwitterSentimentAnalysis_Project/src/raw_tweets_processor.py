@@ -11,7 +11,7 @@ from textblob import TextBlob
 import logging
 from utils import get_timestamp
 
-logging.basicConfig(level="WARN")
+logging.basicConfig(level="INFO")
 
 
 class Processor:

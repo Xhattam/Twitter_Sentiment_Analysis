@@ -7,7 +7,7 @@ import json
 import logging
 from pretty_analyser import PrettyAnalyser
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level="WARN")
 
 LOGGER = logging.Logger("Main")
 
