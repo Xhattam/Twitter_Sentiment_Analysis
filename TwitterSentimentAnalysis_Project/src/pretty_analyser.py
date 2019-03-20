@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import logging
 from os.path import abspath
 from utils import get_timestamp
+import webbrowser
 sns.set_style("dark", {'axes.grid': True})
 
 
@@ -34,6 +35,7 @@ class PrettyAnalyser:
         self.plot_most_polarity_user(df, 'Positive')
         self.plot_most_active_users(df)
         self.polarity_ratio_chart(df)
+        self.show_best_worst_tweet(df)
 
     def horiz_plot(self, data, x, y, label, palette, xlim_upper, max_values, figsize, title, output_name):
         """ Horizontal bar plot
@@ -125,6 +127,31 @@ class PrettyAnalyser:
         ax1.axis('equal')
         ax1.legend(ncol=1, loc="lower right", frameon=True)
         plt.show()
+
+    def show_best_worst_tweet(self, df):
+
+        def open_link(link):
+            try:
+                webbrowser.open(link)
+            except:
+                self._logger.warn("Couldn't open link at {}".format(link))
+
+        base_link = "http://twitter.com/{}/status/{}"
+
+        worst = df.iloc[df['t_polarity_score'].argmin()]
+
+        worst_user = worst['u_screen_name']
+        worst_id = worst['t_id']
+        worst_link = base_link.format(worst_user, worst_id)
+
+        best = df.iloc[df['t_polarity_score'].argmax()]
+        best_user = best['u_screen_name']
+        best_id = best['t_id']
+        best_link = base_link.format(best_user, best_id)
+
+        open_link(worst_link)
+        open_link(best_link)
+
 
 
 

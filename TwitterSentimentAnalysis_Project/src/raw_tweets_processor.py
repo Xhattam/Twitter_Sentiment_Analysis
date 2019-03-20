@@ -57,7 +57,7 @@ class Processor:
 
         fields = ['u_name', 'u_screen_name', 't_date', 't_text', 't_polarity_score',
                   't_polarity', 't_subjectivity_score', 'u_followers', 't_retweets',
-                  't_favorited', 't_mentions']
+                  't_favorited', 't_mentions', 't_id']
 
         all_extracted = {k: [] for k in fields}
         for tweet in raw_tweets:
@@ -75,6 +75,7 @@ class Processor:
             all_extracted['t_favorited'].append(tweet['favorite_count'])
             all_extracted['t_mentions'].append(self.extract_mentions(
                 tweet['entities']['user_mentions']))
+            all_extracted['t_id'].append(tweet['id'])
 
         df = pd.DataFrame(all_extracted)
         return df
