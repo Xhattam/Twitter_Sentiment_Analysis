@@ -1,3 +1,11 @@
+import seaborn as sns
+import matplotlib.pyplot as plt
+import logging
+from os.path import abspath
+from utils import get_timestamp
+sns.set_style("dark", {'axes.grid': True})
+
+
 """ Show results in a pretty, graphic way
 
 @author: Jessica Tanon
@@ -5,17 +13,18 @@
 DATE: MARCH 2019
 """
 
-import seaborn as sns
-sns.set_style("dark", {'axes.grid': True})
-import matplotlib.pyplot as plt
-import logging
-from os.path import abspath
-from utils import get_timestamp
 
 logging.basicConfig(level="INFO")
 
 
 class PrettyAnalyser:
+
+    """ Analyses dataframe from Processor, and builds charts on the following numbers:
+        - most active user with negative tweets (bar chart)
+        - most active user with positive tweets (bar chart)
+        - most active user (bar chart)
+        - percentage of positive/neutral/negative tweets (pie chart)
+    """
 
     def __init__(self):
         self._logger = logging.Logger(name="PrettyAnalyser")
@@ -102,7 +111,6 @@ class PrettyAnalyser:
                         xlim_upper=max(users['tweets'])+1, max_values=show_n_users, figsize=(15, 25),
                         title="Number of tweets per user (50 users)",
                         output_name="most_active_50_users_per_number_of_tweets_{}".format(get_timestamp()))
-
 
     def polarity_ratio_chart(self, df):
         labels = ["Positive", "Neutral", "Negative"]

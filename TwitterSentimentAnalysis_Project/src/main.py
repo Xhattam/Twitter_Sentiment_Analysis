@@ -1,6 +1,5 @@
 from fetcher import TwitterClient
 from raw_tweets_processor import Processor
-from ugly_analyser import analyse
 from utils import get_timestamp
 import os
 import json
@@ -44,7 +43,6 @@ def do_magic(keywords, limit):
     LOGGER.info("Building plots...")
     analyser = PrettyAnalyser()
     analyser.make_plots(dataframe)
-
 
 
 if __name__ == "__main__":

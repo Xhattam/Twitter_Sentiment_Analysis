@@ -1,15 +1,13 @@
+import pandas as pd
+from textblob import TextBlob
+import logging
+
 """ Reads raw tweets extracted by `fetcher`, and formats results in a clean dataframe for later analysis
 
 @author: Jessica Tanon
 
 DATE: MAR 2019
 """
-
-import json
-import pandas as pd
-from textblob import TextBlob
-import logging
-from utils import get_timestamp
 
 logging.basicConfig(level="INFO")
 
