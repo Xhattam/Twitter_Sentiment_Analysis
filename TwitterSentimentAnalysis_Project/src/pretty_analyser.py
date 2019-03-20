@@ -37,7 +37,7 @@ class PrettyAnalyser:
         self.polarity_ratio_chart(df)
         self.show_best_worst_tweet(df)
 
-    def horiz_plot(self, data, x, y, label, palette, xlim_upper, max_values, figsize, title, output_name):
+    def horiz_plot(self, data, x, y, palette, xlim_upper, max_values, figsize, title, output_name):
         """ Horizontal bar plot
 
         :param data         : dataframe with sorted/counted columns of interest
@@ -63,11 +63,11 @@ class PrettyAnalyser:
         """
         f, ax = plt.subplots(figsize=figsize)
         data = data.head(max_values)
-
-        barplot = sns.barplot(x=x, y=y, data=data, label=label, palette=palette)
+        plt.suptitle(title)
+        barplot = sns.barplot(x=x, y=y, data=data, palette=palette)
 
         ax.legend(ncol=1, loc="lower right", frameon=True)
-        ax.set(xlim=(0, xlim_upper), ylabel="", xlabel=title)
+        ax.set(xlim=(0, xlim_upper), xlabel="Number of tweets", ylabel="")
         sns.despine(left=True, bottom=True)
         self._logger.info("Saving figure to {}".format(abspath("../outputs/{}".format(output_name))))
         barplot.get_figure().savefig("../outputs/{}".format(output_name))
@@ -91,12 +91,11 @@ class PrettyAnalyser:
             data=sorted_users,
             x="t_polarity",
             y="u_screen_name",
-            label="#tweets",
             palette=palette,
             xlim_upper=max(sorted_users['t_polarity'])+1,
             max_values=20,
-            figsize=(6, 15),
-            title="Top 20 users with the most {} tweets".format(polarity.lower()),
+            figsize=(15, 25),
+            title="Users with the most {} tweets (top 20 users)".format(polarity.lower()),
             output_name="20_users_most_{}_tweets_{}.png".format(polarity.lower(), get_timestamp()))
 
     def plot_most_active_users(self, df):
@@ -109,7 +108,7 @@ class PrettyAnalyser:
         users = df['u_screen_name'].value_counts().rename_axis('u_screen_name').reset_index(name='tweets')
         show_n_users = 50
         palette = sns.cubehelix_palette(show_n_users, reverse=True, light=0.8, dark=0.1)
-        self.horiz_plot(data=users, x="tweets", y="u_screen_name", label="#tweets", palette=palette,
+        self.horiz_plot(data=users, x="tweets", y="u_screen_name", palette=palette,
                         xlim_upper=max(users['tweets'])+1, max_values=show_n_users, figsize=(15, 25),
                         title="Number of tweets per user (50 users)",
                         output_name="most_active_50_users_per_number_of_tweets_{}".format(get_timestamp()))
@@ -123,9 +122,10 @@ class PrettyAnalyser:
         cols = ['g', 'lavender', 'r']
 
         fig1, ax1 = plt.subplots()
+        plt.suptitle("Tweets polarity ratio")
         ax1.pie(sizes, labels=labels, autopct='%1.1f%%', shadow=True, colors=cols)
         ax1.axis('equal')
-        ax1.legend(ncol=1, loc="lower right", frameon=True)
+        #ax1.set(xlabel="Tweets polarity ratio")
         plt.show()
 
     def show_best_worst_tweet(self, df):

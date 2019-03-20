@@ -6,8 +6,118 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38cd4305-c32e-41fc-818a-98ae95b86ea4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/1108055019486699521.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_17:1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_17:3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_17:6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_17:8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_17:9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_2032019_14:1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_2032019_15:25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_2032019_15:56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_2032019_15:57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_2032019_15:58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_2032019_9:5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_17:1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_17:3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_17:6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_17:8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_17:9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_2032019_14:1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_2032019_15:25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_2032019_15:56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_2032019_15:57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_2032019_15:58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_2032019_9:5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:34.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:36.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:41.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:44.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:45.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_17:1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_17:3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_17:6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_17:8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_17:9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_14:0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_14:1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_15:25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_15:56.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_15:57.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_15:58.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_9:19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_9:22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_9:46.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_9:5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_16:20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_16:34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_16:36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_16:37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_16:41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_16:45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_17:1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_17:3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_17:6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_17:8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_17:9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_2032019_14:1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_2032019_15:25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_2032019_15:56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_2032019_15:57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_2032019_15:58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_2032019_9:5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:34.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:36.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:41.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:44.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:45.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_17:1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_17:3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_17:6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_17:8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_17:9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_14:0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_14:1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_15:25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_15:56.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_15:57.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_15:58.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_9:19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_9:22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_9:46.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_9:5.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pretty_analyser.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretty_analyser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/raw_tweets_processor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/raw_tweets_processor.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,12 +174,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8002" />
+          <entry key="py" value="8130" />
+          <entry key="regexp" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="8002" />
+          <entry key="Python" value="8130" />
+          <entry key="RegExp" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -113,16 +225,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pretty_analyser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="146" column="54" selection-start-line="146" selection-start-column="54" selection-end-line="146" selection-end-column="54" />
+            <state relative-caret-position="1465">
+              <caret line="110" column="66" lean-forward="true" selection-start-line="110" selection-start-column="66" selection-end-line="110" selection-end-column="66" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
-                <marker date="1553097488338" expanded="true" signature="663:664" ph="..." />
-                <marker date="1553097488338" expanded="true" signature="780:1009" ph="..." />
-                <marker date="1553097488338" expanded="true" signature="5382:5542" ph="..." />
+                <marker date="1553100120785" expanded="true" signature="663:664" ph="..." />
+                <marker date="1553100120785" expanded="true" signature="780:1009" ph="..." />
+                <marker date="1553100120785" expanded="true" signature="5400:5560" ph="..." />
               </folding>
             </state>
           </provider>
@@ -132,20 +244,20 @@
         <entry file="file://$PROJECT_DIR$/src/raw_tweets_processor.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
-              <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+              <caret line="79" column="40" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <marker date="1553097055537" expanded="true" signature="268:274" ph="..." />
+                <marker date="1553097648551" expanded="true" signature="268:274" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="20" column="58" lean-forward="true" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+            <state relative-caret-position="525">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
                 <marker date="1553095553451" expanded="true" signature="284:359" ph="..." />
@@ -274,7 +386,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
-      <option name="PARAMETERS" value="babylonhealth @babylonhealth #babylonhealth -limit 50" />
+      <option name="PARAMETERS" value="babylonhealth @babylonhealth #babylonhealth -limit 20" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -506,34 +618,34 @@
     <entry file="file://$PROJECT_DIR$/src/raw_tweets_processor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+          <caret line="79" column="40" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <marker date="1553097055537" expanded="true" signature="268:274" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="20" column="58" lean-forward="true" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-            <marker date="1553095553451" expanded="true" signature="284:359" ph="..." />
+            <marker date="1553097648551" expanded="true" signature="268:274" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pretty_analyser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="146" column="54" selection-start-line="146" selection-start-column="54" selection-end-line="146" selection-end-column="54" />
+        <state relative-caret-position="1465">
+          <caret line="110" column="66" lean-forward="true" selection-start-line="110" selection-start-column="66" selection-end-line="110" selection-end-column="66" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
-            <marker date="1553097488338" expanded="true" signature="663:664" ph="..." />
-            <marker date="1553097488338" expanded="true" signature="780:1009" ph="..." />
-            <marker date="1553097488338" expanded="true" signature="5382:5542" ph="..." />
+            <marker date="1553100120785" expanded="true" signature="663:664" ph="..." />
+            <marker date="1553100120785" expanded="true" signature="780:1009" ph="..." />
+            <marker date="1553100120785" expanded="true" signature="5400:5560" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+            <marker date="1553095553451" expanded="true" signature="284:359" ph="..." />
           </folding>
         </state>
       </provider>
