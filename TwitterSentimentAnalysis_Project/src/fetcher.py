@@ -1,14 +1,14 @@
+import tweepy
+from tweepy import OAuthHandler
+import json
+import logging
+
 """ Twitter authentication and tweets fetcher class.
 
 @author: Jessica Tanon
 
 DATE: March 2019
 """
-
-import tweepy
-from tweepy import OAuthHandler
-import json
-import logging
 
 logging.basicConfig(level="INFO")
 
@@ -34,8 +34,10 @@ class TwitterClient(object):
 
     def get_raw_tweets(self, query, count):
         """ Main function to fetch tweets and parse them.
-        :param query: seach query
-        :param count: number of tweets to fetch
+        :param query    : seach query
+        :type query     :str
+        :param count    : number of tweets to fetch
+        :type count     : int
         :returns: list of unique tweets """
 
         #  empty set to store parsed tweets (unique)

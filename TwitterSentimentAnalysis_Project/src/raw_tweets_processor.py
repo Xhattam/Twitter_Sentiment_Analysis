@@ -22,8 +22,9 @@ class Processor:
     @staticmethod
     def get_polarity(score):
         """ Returns a polarity value based on the polarity score (subjective)
-        :param score: polarity score returned by TextBlob
-        :returns: an associated polarity (Positive, Negative, Neutral) """
+        :param score    : polarity score returned by TextBlob
+        :type score     : float
+        :returns        : an associated polarity (Positive, Negative, Neutral) """
         if score <= 0.2:
             return "Negative"
         elif score <= 0.7:
@@ -34,14 +35,16 @@ class Processor:
     @staticmethod
     def extract_mentions(mentions):
         """ Extract user mentions from a tweet
-        :param mentions: list of user mentions (from Twitter API)
-        :returns: comma-separated user name and screen names """
+        :param mentions : list of user mentions (from Twitter API)
+        :type mentions  : list
+        :returns        : comma-separated user name and screen names """
         return ", ".join([e['name'] + " (" + e['screen_name'] + ")" for e in mentions])
 
     def get_readable_date(self, twitter_date):
         """ Extract the date in a friendlier format (dd/mm/yy)
-        :param twitter_date: date returned by Twitter API
-        :returns: readable date """
+        :param twitter_date : date returned by Twitter API
+        :type twitter_date  : str
+        :returns            : readable date """
 
         split = twitter_date.split(" ")
         month, value, year = self.mapped_months[split[1]], split[2], split[-1]
@@ -50,8 +53,9 @@ class Processor:
     def extract_info(self, raw_tweets):
         """ Main extraction function, returns relevant fields for each tweet returned by the
             Twitter API
-        :param raw_tweets: list of extracted tweets, in json format
-        :returns: dataframe of extracted information """
+        :param raw_tweets   : list of extracted tweets
+        :type raw_tweets    : json
+        :returns            : dataframe of extracted information """
 
         self._logger.info("Extracting data from tweets...")
 

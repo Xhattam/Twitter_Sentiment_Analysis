@@ -7,117 +7,13 @@
   <component name="ChangeListManager">
     <list default="true" id="38cd4305-c32e-41fc-818a-98ae95b86ea4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/1108055019486699521.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_16:45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_17:1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_17:3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_17:6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_17:8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_1932019_17:9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_2032019_14:1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_2032019_15:25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_2032019_15:56.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_2032019_15:57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_2032019_15:58.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_negative_tweets_2032019_9:5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_16:45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_17:1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_17:3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_17:6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_17:8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_1932019_17:9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_2032019_14:1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_2032019_15:25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_2032019_15:56.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_2032019_15:57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_2032019_15:58.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/20_users_most_positive_tweets_2032019_9:5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:20.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:34.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:36.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:41.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:44.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:45.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_16:6.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_17:1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_17:3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_17:6.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_17:8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_1932019_17:9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_14:0.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_14:1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_15:25.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_15:56.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_15:57.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_15:58.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_9:19.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_9:22.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_9:46.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/dataframe_results_2032019_9:5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_16:20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_16:34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_16:36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_16:37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_16:41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_16:45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_17:1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_17:3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_17:6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_17:8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_1932019_17:9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_2032019_14:1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_2032019_15:25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_2032019_15:56.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_2032019_15:57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_2032019_15:58.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/most_active_50_users_per_number_of_tweets_2032019_9:5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:10.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:14.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:15.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:17.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:20.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:34.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:36.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:41.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:44.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:45.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_16:6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_17:1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_17:3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_17:6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_17:8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_1932019_17:9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_14:0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_14:1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_15:25.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_15:56.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_15:57.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_15:58.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_9:19.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_9:22.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_9:46.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/raw_tweets_2032019_9:5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fetcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/fetcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pretty_analyser.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretty_analyser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/raw_tweets_processor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/raw_tweets_processor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ugly_analyser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -163,24 +59,24 @@
     <session id="-144154028">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8130" />
+          <entry key="py" value="9614" />
           <entry key="regexp" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="8130" />
+          <entry key="Python" value="9614" />
           <entry key="RegExp" value="7" />
         </counts>
       </usages-collector>
@@ -200,11 +96,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fetcher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="240">
+              <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
               <folding>
                 <element signature="e#100#113#0" expanded="true" />
               </folding>
@@ -213,28 +109,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/fetcher_tester.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-                <marker date="1552995294360" expanded="true" signature="207:212" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pretty_analyser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1465">
-              <caret line="110" column="66" lean-forward="true" selection-start-line="110" selection-start-column="66" selection-end-line="110" selection-end-column="66" />
+            <state relative-caret-position="2175">
+              <caret line="157" column="38" selection-start-line="157" selection-start-column="38" selection-end-line="157" selection-end-column="38" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
-                <marker date="1553100120785" expanded="true" signature="663:664" ph="..." />
-                <marker date="1553100120785" expanded="true" signature="780:1009" ph="..." />
-                <marker date="1553100120785" expanded="true" signature="5400:5560" ph="..." />
+                <marker date="1553102504609" expanded="true" signature="663:664" ph="..." />
+                <marker date="1553102504609" expanded="true" signature="907:1136" ph="..." />
+                <marker date="1553102504609" expanded="true" signature="6054:6253" ph="..." />
               </folding>
             </state>
           </provider>
@@ -243,24 +126,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/raw_tweets_processor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="79" column="40" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+            <state relative-caret-position="500">
+              <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <marker date="1553097648551" expanded="true" signature="268:274" ph="..." />
+                <marker date="1553102660944" expanded="true" signature="268:274" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="975">
+              <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
-                <marker date="1553095553451" expanded="true" signature="284:359" ph="..." />
+                <marker date="1553102846061" expanded="true" signature="341:416" ph="..." />
               </folding>
             </state>
           </provider>
@@ -269,10 +152,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="90">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding>
-                <marker date="1553011263420" expanded="true" signature="52:57" ph="..." />
+                <marker date="1553102866709" expanded="true" signature="125:130" ph="..." />
               </folding>
             </state>
           </provider>
@@ -306,11 +189,11 @@
         <option value="$PROJECT_DIR$/test/fetcher_tester.py" />
         <option value="$PROJECT_DIR$/test_resources/test_tweets.json" />
         <option value="$PROJECT_DIR$/test/processor_tester.py" />
-        <option value="$PROJECT_DIR$/src/utils.py" />
         <option value="$PROJECT_DIR$/src/fetcher.py" />
-        <option value="$PROJECT_DIR$/src/main.py" />
-        <option value="$PROJECT_DIR$/src/raw_tweets_processor.py" />
         <option value="$PROJECT_DIR$/src/pretty_analyser.py" />
+        <option value="$PROJECT_DIR$/src/raw_tweets_processor.py" />
+        <option value="$PROJECT_DIR$/src/main.py" />
+        <option value="$PROJECT_DIR$/src/utils.py" />
       </list>
     </option>
   </component>
@@ -326,6 +209,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -352,8 +237,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -529,14 +412,14 @@
     <frame x="1080" y="-2" width="1920" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26627535" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26947704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3279396" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3279396" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30204964" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -573,12 +456,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/out/test/TwitterSentimentAnalysis/test_tweets.json" />
-    <entry file="file://$PROJECT_DIR$/src/utils.py">
+    <entry file="file://$PROJECT_DIR$/test/processor_tester.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="390">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
           <folding>
-            <marker date="1553011263420" expanded="true" signature="52:57" ph="..." />
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1553002928301" expanded="true" signature="164:169" ph="..." />
           </folding>
         </state>
       </provider>
@@ -594,58 +478,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fetcher.py">
+    <entry file="file://$PROJECT_DIR$/src/pretty_analyser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="2175">
+          <caret line="157" column="38" selection-start-line="157" selection-start-column="38" selection-end-line="157" selection-end-column="38" />
           <folding>
-            <element signature="e#100#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/processor_tester.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1553002928301" expanded="true" signature="164:169" ph="..." />
+            <element signature="e#0#21#0" expanded="true" />
+            <marker date="1553102504609" expanded="true" signature="663:664" ph="..." />
+            <marker date="1553102504609" expanded="true" signature="907:1136" ph="..." />
+            <marker date="1553102504609" expanded="true" signature="6054:6253" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/raw_tweets_processor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="79" column="40" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+        <state relative-caret-position="500">
+          <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <marker date="1553097648551" expanded="true" signature="268:274" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pretty_analyser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1465">
-          <caret line="110" column="66" lean-forward="true" selection-start-line="110" selection-start-column="66" selection-end-line="110" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <marker date="1553100120785" expanded="true" signature="663:664" ph="..." />
-            <marker date="1553100120785" expanded="true" signature="780:1009" ph="..." />
-            <marker date="1553100120785" expanded="true" signature="5400:5560" ph="..." />
+            <marker date="1553102660944" expanded="true" signature="268:274" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="975">
+          <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
-            <marker date="1553095553451" expanded="true" signature="284:359" ph="..." />
+            <marker date="1553102846061" expanded="true" signature="341:416" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <marker date="1553102866709" expanded="true" signature="125:130" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fetcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding>
+            <element signature="e#100#113#0" expanded="true" />
           </folding>
         </state>
       </provider>

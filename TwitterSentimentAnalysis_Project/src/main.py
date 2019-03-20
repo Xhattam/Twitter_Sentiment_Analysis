@@ -12,11 +12,21 @@ LOGGER = logging.Logger("Main")
 
 
 def create_paths():
+    """ Creates `outputs` folder if it doesn't exist """
     if not os.path.exists("../outputs"):
         os.mkdir("../outputs")
 
 
 def do_magic(keywords, limit):
+    """ Main function, does all the heavy lifting (query twitter, processes, analysis, plots)
+
+    :param keywords : keywords to query twitter with
+    :type keywords  : list of str
+    :param limit    : max number of tweets to get
+    :type limit     : int
+    """
+
+    # TODO fix stupid logger which doesn't log anything (y tho)
     create_paths()
     print("Keywords:\n- {}".format("\n- ".join(keywords)))
     print("Trying to extract {} tweets".format(limit))
@@ -54,6 +64,4 @@ if __name__ == "__main__":
     parser.add_argument("-limit", type=int, help="Max number of tweets to fetch", default=100)
 
     args = parser.parse_args()
-    print("ARGS")
-    print(args)
     do_magic(**vars(args))

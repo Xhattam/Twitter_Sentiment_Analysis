@@ -31,6 +31,11 @@ class PrettyAnalyser:
         self._logger = logging.Logger(name="PrettyAnalyser")
 
     def make_plots(self, df):
+        """ Calls all plot functions
+
+        :param df   : input dataframe
+        :type df    : pandas.DataFrame
+        """
         self.plot_most_polarity_user(df, 'Negative')
         self.plot_most_polarity_user(df, 'Positive')
         self.plot_most_active_users(df)
@@ -75,8 +80,10 @@ class PrettyAnalyser:
     def plot_most_polarity_user(self, df, polarity):
         """ Plots the most positive/negative 20 users
 
-        :param polarity: value of polarity to look at (Positive, Negative, Neutral)
-        :return:
+        :param df       : input dataframe
+        :type df        : pandas.DataFrame
+        :param polarity : value of polarity to look at (Positive, Negative, Neutral)
+        :type polarity  : str
         """
         neg_polarity_df = df.loc[df['t_polarity'] == polarity][['u_screen_name', 't_polarity']]
         sorted_users = neg_polarity_df.groupby('u_screen_name').count().sort_values(
@@ -101,8 +108,8 @@ class PrettyAnalyser:
     def plot_most_active_users(self, df):
         """ Plots user activity, counted in tweets written
 
-        :param df: data to look at
-        :type df: pandas.DataFrame
+        :param df   : input dataframe
+        :type df    : pandas.DataFrame
         """
         # creating new dataframe with user and tweet counts as columns
         users = df['u_screen_name'].value_counts().rename_axis('u_screen_name').reset_index(name='tweets')
@@ -114,6 +121,11 @@ class PrettyAnalyser:
                         output_name="most_active_50_users_per_number_of_tweets_{}".format(get_timestamp()))
 
     def polarity_ratio_chart(self, df):
+        """ Creates pie chat of positive/negative/neutral polarity ratios
+
+        :param df   : input dataframe
+        :type df    : pandas.DataFrame
+        """
         labels = ["Positive", "Neutral", "Negative"]
         pos = df.loc[df['t_polarity'] == 'Positive']
         neg = df.loc[df['t_polarity'] == 'Negative']
@@ -125,25 +137,34 @@ class PrettyAnalyser:
         plt.suptitle("Tweets polarity ratio")
         ax1.pie(sizes, labels=labels, autopct='%1.1f%%', shadow=True, colors=cols)
         ax1.axis('equal')
-        #ax1.set(xlabel="Tweets polarity ratio")
         plt.show()
 
     def show_best_worst_tweet(self, df):
+        """ Display tweet with best/worst polarity in a browser
+
+        :param df   : input dataframe
+        :type df    : pandas.DataFrame
+        """
 
         def open_link(link):
+            """ Tries to open twitter link, and logs warning if there's an error
+            :param link : url to open
+            :type link  : str"""
             try:
                 webbrowser.open(link)
             except:
                 self._logger.warn("Couldn't open link at {}".format(link))
 
+        # twitter base link to a tweet
         base_link = "http://twitter.com/{}/status/{}"
 
+        # Worst tweet author, id and twitter link
         worst = df.iloc[df['t_polarity_score'].argmin()]
-
         worst_user = worst['u_screen_name']
         worst_id = worst['t_id']
         worst_link = base_link.format(worst_user, worst_id)
 
+        # Best tweet author, id and twitter link
         best = df.iloc[df['t_polarity_score'].argmax()]
         best_user = best['u_screen_name']
         best_id = best['t_id']
