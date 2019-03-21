@@ -1,6 +1,9 @@
 import pandas as pd
 from textblob import TextBlob
 import logging
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+import re
+
 
 """ Reads raw tweets extracted by `fetcher`, and formats results in a clean dataframe for later analysis
 
@@ -21,16 +24,19 @@ class Processor:
 
     @staticmethod
     def get_polarity(score):
-        """ Returns a polarity value based on the polarity score (subjective)
+        """ Returns a polarity value based on the compound score of vader sentiment analysis
+
+        See this page: https://github.com/cjhutto/vaderSentiment#about-the-scoring
         :param score    : polarity score returned by TextBlob
         :type score     : float
         :returns        : an associated polarity (Positive, Negative, Neutral) """
-        if score <= 0.2:
+        if score <= -0.05:
             return "Negative"
-        elif score <= 0.7:
-            return "Neutral"
-        else:
+        elif score >= 0.05:
             return "Positive"
+        else:
+            return "Neutral"
+
 
     @staticmethod
     def extract_mentions(mentions):
@@ -50,6 +56,12 @@ class Processor:
         month, value, year = self.mapped_months[split[1]], split[2], split[-1]
         return "/".join([value, month, year])
 
+
+    def clean_tweet(self, text, mentions):
+        for m in mentions:
+            text = re.sub(m, "", text)
+        return text
+
     def extract_info(self, raw_tweets):
         """ Main extraction function, returns relevant fields for each tweet returned by the
             Twitter API
@@ -63,6 +75,8 @@ class Processor:
                   't_polarity', 't_subjectivity_score', 'u_followers', 't_retweets',
                   't_favorited', 't_mentions', 't_id']
 
+        analyser = SentimentIntensityAnalyzer()
+
         all_extracted = {k: [] for k in fields}
         for tweet in raw_tweets:
             all_extracted['u_name'].append(tweet['user']['name'])
@@ -71,9 +85,10 @@ class Processor:
             all_extracted['t_text'].append(tweet['full_text'])
 
             tb_analysed = TextBlob(tweet['full_text'])
+            vader_analysed = analyser.polarity_scores(tweet['full_text'])
             all_extracted['t_polarity_score'].append(tb_analysed.polarity)
             all_extracted['t_subjectivity_score'].append(tb_analysed.sentiment.subjectivity)
-            all_extracted['t_polarity'].append(self.get_polarity(tb_analysed.polarity))
+            all_extracted['t_polarity'].append(self.get_polarity(vader_analysed['compound']))
             all_extracted['u_followers'].append(tweet['user']['followers_count'])
             all_extracted['t_retweets'].append(tweet['retweet_count'])
             all_extracted['t_favorited'].append(tweet['favorite_count'])
