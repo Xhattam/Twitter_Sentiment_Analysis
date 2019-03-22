@@ -79,6 +79,7 @@ class Processor:
 
         all_extracted = {k: [] for k in fields}
         for tweet in raw_tweets:
+
             all_extracted['u_name'].append(tweet['user']['name'])
             all_extracted['u_screen_name'].append(tweet['user']['screen_name'])
             all_extracted['t_date'].append(self.get_readable_date(tweet['created_at']))
@@ -86,7 +87,9 @@ class Processor:
 
             tb_analysed = TextBlob(tweet['full_text'])
             vader_analysed = analyser.polarity_scores(tweet['full_text'])
-            all_extracted['t_polarity_score'].append(tb_analysed.polarity)
+
+            print(vader_analysed['compound'], self.get_polarity(vader_analysed['compound']))
+            all_extracted['t_polarity_score'].append(vader_analysed['compound'])
             all_extracted['t_subjectivity_score'].append(tb_analysed.sentiment.subjectivity)
             all_extracted['t_polarity'].append(self.get_polarity(vader_analysed['compound']))
             all_extracted['u_followers'].append(tweet['user']['followers_count'])
@@ -97,4 +100,5 @@ class Processor:
             all_extracted['t_id'].append(tweet['id'])
 
         df = pd.DataFrame(all_extracted)
+        print("EXTRACTED: {}".format(len(df)))
         return df

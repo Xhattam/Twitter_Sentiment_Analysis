@@ -159,13 +159,13 @@ class PrettyAnalyser:
         base_link = "http://twitter.com/{}/status/{}"
 
         # Worst tweet author, id and twitter link
-        worst = df.iloc[df['t_polarity_score'].argmin()]
+        worst = df.iloc[df['t_polarity_score'].idxmin()]
         worst_user = worst['u_screen_name']
         worst_id = worst['t_id']
         worst_link = base_link.format(worst_user, worst_id)
 
         # Best tweet author, id and twitter link
-        best = df.iloc[df['t_polarity_score'].argmax()]
+        best = df.iloc[df['t_polarity_score'].idxmax()]
         best_user = best['u_screen_name']
         best_id = best['t_id']
         best_link = base_link.format(best_user, best_id)

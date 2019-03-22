@@ -52,7 +52,7 @@ def do_magic(keywords, limit):
 
     LOGGER.info("Building plots...")
     analyser = PrettyAnalyser()
-    analyser.make_plots(dataframe)
+    #analyser.make_plots(dataframe)
 
 
 if __name__ == "__main__":
