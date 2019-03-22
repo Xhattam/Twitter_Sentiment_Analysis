@@ -45,6 +45,7 @@ def do_magic(keywords, limit):
     # Reading raw tweets, extracting data into dataframe, saving to csv
     processor = Processor()
     dataframe = processor.extract_info(raw_tweets)
+    print("Found {}/{} tweets".format(len(dataframe), limit))
 
     dataframe_output_file = "../outputs/dataframe_results_{}.csv".format(get_timestamp())
     LOGGER.info("Saving dataframe to csv file '../outputs/dataframe_results_{}.csv'".format(get_timestamp()))

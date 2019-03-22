@@ -25,12 +25,12 @@ class Processor:
         :param score    : polarity score returned by TextBlob
         :type score     : float
         :returns        : an associated polarity (Positive, Negative, Neutral) """
-        if score <= 0.2:
+        if score <= -0.05:
             return "Negative"
-        elif score <= 0.7:
-            return "Neutral"
-        else:
+        elif score >= 0.05:
             return "Positive"
+        else:
+            return "Neutral"
 
     @staticmethod
     def extract_mentions(mentions):

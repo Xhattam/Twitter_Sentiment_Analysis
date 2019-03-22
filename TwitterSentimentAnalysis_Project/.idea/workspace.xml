@@ -7,13 +7,8 @@
   <component name="ChangeListManager">
     <list default="true" id="38cd4305-c32e-41fc-818a-98ae95b86ea4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fetcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/fetcher.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/output.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pretty_analyser.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pretty_analyser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/raw_tweets_processor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/raw_tweets_processor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ugly_analyser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +54,7 @@
     <session id="-144154028">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.6" value="1" />
@@ -70,13 +65,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="9614" />
+          <entry key="py" value="9724" />
           <entry key="regexp" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="9614" />
+          <entry key="Python" value="9724" />
           <entry key="RegExp" value="7" />
         </counts>
       </usages-collector>
@@ -96,14 +91,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fetcher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-              <folding>
-                <element signature="e#100#113#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="600">
+              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -111,13 +103,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pretty_analyser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2175">
-              <caret line="157" column="38" selection-start-line="157" selection-start-column="38" selection-end-line="157" selection-end-column="38" />
+            <state relative-caret-position="1066">
+              <caret line="149" column="80" selection-start-line="149" selection-start-column="80" selection-end-line="149" selection-end-column="80" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
-                <marker date="1553102504609" expanded="true" signature="663:664" ph="..." />
-                <marker date="1553102504609" expanded="true" signature="907:1136" ph="..." />
-                <marker date="1553102504609" expanded="true" signature="6054:6253" ph="..." />
+                <marker date="1553270362348" expanded="true" signature="663:664" ph="..." />
               </folding>
             </state>
           </provider>
@@ -126,24 +116,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/raw_tweets_processor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <marker date="1553102660944" expanded="true" signature="268:274" ph="..." />
-              </folding>
+            <state>
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+            <state relative-caret-position="455">
+              <caret line="46" column="50" lean-forward="true" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
-                <marker date="1553102846061" expanded="true" signature="341:416" ph="..." />
               </folding>
             </state>
           </provider>
@@ -176,6 +161,7 @@
       <find>sky</find>
       <find>charts</find>
       <find>white</find>
+      <find>0.7914</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -191,17 +177,17 @@
         <option value="$PROJECT_DIR$/test/processor_tester.py" />
         <option value="$PROJECT_DIR$/src/fetcher.py" />
         <option value="$PROJECT_DIR$/src/pretty_analyser.py" />
-        <option value="$PROJECT_DIR$/src/raw_tweets_processor.py" />
-        <option value="$PROJECT_DIR$/src/main.py" />
         <option value="$PROJECT_DIR$/src/utils.py" />
+        <option value="$PROJECT_DIR$/src/main.py" />
+        <option value="$PROJECT_DIR$/src/raw_tweets_processor.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1080" />
-    <option name="y" value="25" />
+    <option name="x" value="1920" />
+    <option name="y" value="-2" />
     <option name="width" value="1920" />
-    <option name="height" value="1055" />
+    <option name="height" value="1082" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -209,8 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,6 +221,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,7 +255,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
-      <option name="PARAMETERS" value="babylonhealth @babylonhealth #babylonhealth -limit 20" />
+      <option name="PARAMETERS" value="babylonhealth @babylonhealth #babylonhealth -limit 500" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -410,9 +396,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1080" y="-2" width="1920" height="1082" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26947704" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27588046" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -441,13 +426,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/paths" />
-    <entry file="file://$PROJECT_DIR$/src/ugly_analyser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ugly_analyser.py" />
     <entry file="file://$PROJECT_DIR$/test_resources/test_tweets.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -460,10 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1553002928301" expanded="true" signature="164:169" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -474,41 +449,6 @@
           <folding>
             <element signature="e#0#33#0" expanded="true" />
             <marker date="1552995294360" expanded="true" signature="207:212" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pretty_analyser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2175">
-          <caret line="157" column="38" selection-start-line="157" selection-start-column="38" selection-end-line="157" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <marker date="1553102504609" expanded="true" signature="663:664" ph="..." />
-            <marker date="1553102504609" expanded="true" signature="907:1136" ph="..." />
-            <marker date="1553102504609" expanded="true" signature="6054:6253" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/raw_tweets_processor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1553102660944" expanded="true" signature="268:274" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-            <marker date="1553102846061" expanded="true" signature="341:416" ph="..." />
           </folding>
         </state>
       </provider>
@@ -525,10 +465,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fetcher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        <state relative-caret-position="600">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pretty_analyser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1066">
+          <caret line="149" column="80" selection-start-line="149" selection-start-column="80" selection-end-line="149" selection-end-column="80" />
           <folding>
-            <element signature="e#100#113#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
+            <marker date="1553270362348" expanded="true" signature="663:664" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/raw_tweets_processor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="46" column="50" lean-forward="true" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
